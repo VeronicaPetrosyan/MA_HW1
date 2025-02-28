@@ -1,7 +1,7 @@
 # Bass Model Analysis
 
 ## Project Overview
-This project analyzes the diffusion of Figure 02 using the **Bass Diffusion Model**. A historical innovation, **Honda ASIMO**, is used as a reference, with worldwide industrial robot shipment data as the historical dataset. The model estimates key parameters from historical data and forecasts future adoption trends.
+This project analyzes the diffusion of **Figure 02** using the **Bass Diffusion Model**. A historical innovation, **Honda ASIMO**, is used as a reference, with **worldwide industrial robot shipment data** as the historical dataset. The model estimates key parameters from historical data and forecasts future adoption trends.
 
 ## Repository Structure
 - `data/` - Contains the dataset used for analysis.
